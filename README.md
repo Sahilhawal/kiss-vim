@@ -30,6 +30,8 @@ git clone https://github.com/Sahilhawal/kiss-vim ~/.config/nvim
 # Remove Git history to disconnect from the cloned repository
 rm -rf ~/.config/nvim/.git
 
+```
+
 
 
 ## Contribution
