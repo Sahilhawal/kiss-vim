@@ -1,4 +1,4 @@
-# Kiss (Keep It Simple, Silly) - Neovim Configuration
+# Kiss (Keep It Simple, Stupid) - Neovim Configuration
 
 Welcome to Kiss, a no-nonsense Neovim configuration designed with simplicity and ease of setup in mind.
 
