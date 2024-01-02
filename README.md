@@ -21,6 +21,10 @@ Kiss is crafted to provide a straightforward and minimalistic Neovim experience.
 ### Installation on macOS
 
 ```bash
+# Install neovim
+brew install neovim
+
+
 # Backup existing Neovim configuration (if any)
 mv ~/.config/nvim{,.bak}
 
